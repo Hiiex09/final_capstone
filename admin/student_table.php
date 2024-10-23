@@ -58,12 +58,12 @@
                 <td>
                   <div class="d-flex justify-content-between align-items-center">
                   <div>
-                    <a href="#" class="btn btn-sm btn-dark px-5 text-white"><i class="bi bi-slash-circle"></i> Hold</a>
+                    <a href="#" class="btn btn-sm btn-dark px-3 text-white"><i class="bi bi-slash-circle"></i> Hold</a>
                   </div>
                   <div>
                      <!-- Button trigger modal -->
-                      <button type="button" class="btn btn-sm btn-success px-4 fs-6 " data-bs-toggle="modal" data-bs-target="#updateTeacher">
-                      <i class="bi bi-gear px-1 fs-6"></i> Update
+                      <button type="button" class="btn btn-sm btn-success px-3" data-bs-toggle="modal" data-bs-target="#updateTeacher">
+                      <i class="bi bi-gear"></i> Update
                       </button>
 
                       <!-- Modal -->
@@ -124,7 +124,7 @@
       <div class="container-full m-3 p-3">
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addTeacher">
-          Add Teacher
+          Add Student
         </button>
 
         <!-- Modal -->
