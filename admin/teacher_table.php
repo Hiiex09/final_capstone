@@ -60,7 +60,7 @@
                     <div>
                     <!-- Button trigger modal -->
                         <button type="button" class="btn btn-sm px-5 mb-1 btn-dark" data-bs-toggle="modal" data-bs-target="#ratingsTeacher">
-                        <i class="bi bi-eye fs-6 px-1"></i>
+                        <i class="bi bi-eye fs-6 px-2"></i>View
                         </button>
 
                         <!-- Modal -->
@@ -216,8 +216,8 @@
                     </div>
                     <div>
                       <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-sm btn-success px-5 fs-6 mb-1" data-bs-toggle="modal" data-bs-target="#updateTeacher">
-                          <i class="bi bi-gear px-1"></i>
+                        <button type="button" class="btn btn-sm btn-success px-5 mb-1" data-bs-toggle="modal" data-bs-target="#updateTeacher">
+                          <i class="bi bi-gear px-1"></i>Update
                         </button>
 
                         <!-- Modal -->
@@ -267,7 +267,7 @@
                     <div>
                       <!-- Button trigger modal -->
                         <button type="button" class="btn btn-primary btn-sm px-5" data-bs-toggle="modal" data-bs-target="#removeTeacher">
-                          <i class="bi bi-trash px-1"></i>
+                          <i class="bi bi-trash"></i> Remove
                         </button>
 
                         <!-- Modal -->
